@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "User name"; ObjectID = "1qV-WD-MJ1"; */
+"1qV-WD-MJ1.text" = "Usuário";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "2aK-zO-Kp8"; */
+"2aK-zO-Kp8.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2aK-zO-Kp8"; */
+"2aK-zO-Kp8.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "86y-MS-Tgz"; */
+"86y-MS-Tgz.text" = "Senha";
+
+/* Class = "UILabel"; text = "Agree with Privacy Policy"; ObjectID = "XvJ-Cy-hKv"; */
+"XvJ-Cy-hKv.text" = "Concordo com a Política de Privacidade";
+
+/* Class = "UILabel"; text = "Agree with Terms of Service"; ObjectID = "aQ6-aM-phl"; */
+"aQ6-aM-phl.text" = "Concordo com os Termos de Serviço";
