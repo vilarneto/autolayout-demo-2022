@@ -1,7 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "SquareLogo.pdf",
+      "filename" : "SquareLogoLight.pdf",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "SquareLogoDark.pdf",
       "idiom" : "universal"
     }
   ],
