@@ -17,7 +17,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="tL1-rG-gGx" userLabel="Global Stack View">
-                                <rect key="frame" x="20" y="220.66666666666666" width="335" height="370.66666666666674"/>
+                                <rect key="frame" x="20" y="225.66666666666666" width="335" height="370.66666666666674"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="NcQ-z4-35a">
                                         <rect key="frame" x="0.0" y="0.0" width="335" height="119.66666666666667"/>
@@ -162,11 +162,11 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="tL1-rG-gGx" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="HEi-SY-XKJ"/>
+                            <constraint firstItem="tL1-rG-gGx" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="HEi-SY-XKJ"/>
                             <constraint firstItem="tL1-rG-gGx" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="J2s-4v-cCC"/>
                             <constraint firstItem="tL1-rG-gGx" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="U7M-bQ-evB"/>
                             <constraint firstItem="tL1-rG-gGx" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="1:3" id="lLu-vA-1xY"/>
-                            <constraint firstAttribute="trailing" secondItem="tL1-rG-gGx" secondAttribute="trailing" constant="20" id="qon-eo-vXb"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="tL1-rG-gGx" secondAttribute="trailing" constant="20" id="qon-eo-vXb"/>
                             <constraint firstItem="tL1-rG-gGx" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="1:2" id="tac-mK-NIP"/>
                         </constraints>
                         <variation key="default">
